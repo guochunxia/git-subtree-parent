@@ -1,4 +1,4 @@
-123GG+
+23GG+
 
 vsdsddsfdsf
 
@@ -8,4 +8,8 @@ fsdf
 456
 qaz
 wsx
+<<<<<<< HEAD
+=======
+123
+>>>>>>> d3c7a49aa7c3cd8cd8c24003a3051ed79ed37670
 parent modify child
